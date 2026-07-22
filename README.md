@@ -8,10 +8,9 @@ Large Offspring Syndrome (LOS) is a rare but significant complication of assiste
 
 ### Project Overview
 The dataset consists of:
-- 1,171 embryo transfer records
+- 1,171 in vitro cycle records
 - 65 LOS cases (~5.6% incidence)
-- Multiple biological and operational variables related to IVF procedures
-- Files include data preprocessing code, machine learning models, and interpretation analysis used to investigate risk factors associated with Large Offspring Syndrome (LOS) in bovine in vitro fertilization (IVF) transfer records.
+- Method: Data preprocessing code, machine learning models, and interpretation analysis to investigate risk factors associated with Large Offspring Syndrome (LOS) in bovine in vitro environment.
 
 ### Models Used
 The following models were trained and evaluated:
